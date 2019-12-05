@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\Potato\bin\Debug\Potato.exe.config
+C:\Users\admin\source\repos\Potato\bin\Debug\Potato.exe
+C:\Users\admin\source\repos\Potato\bin\Debug\Potato.pdb
+C:\Users\admin\source\repos\Potato\obj\Debug\Potato.Form1.resources
+C:\Users\admin\source\repos\Potato\obj\Debug\Potato.Properties.Resources.resources
+C:\Users\admin\source\repos\Potato\obj\Debug\Potato.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Potato\obj\Debug\Potato.exe
+C:\Users\admin\source\repos\Potato\obj\Debug\Potato.pdb
+C:\Users\admin\source\repos\Potato\bin\Debug\Potato.exe.manifest
+C:\Users\admin\source\repos\Potato\bin\Debug\Potato.application
+C:\Users\admin\source\repos\Potato\obj\Debug\Potato.exe.manifest
+C:\Users\admin\source\repos\Potato\obj\Debug\Potato.application
