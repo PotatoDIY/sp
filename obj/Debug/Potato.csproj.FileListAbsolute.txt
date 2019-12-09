@@ -10,3 +10,16 @@ C:\Users\admin\source\repos\Potato\bin\Debug\Potato.exe.manifest
 C:\Users\admin\source\repos\Potato\bin\Debug\Potato.application
 C:\Users\admin\source\repos\Potato\obj\Debug\Potato.exe.manifest
 C:\Users\admin\source\repos\Potato\obj\Debug\Potato.application
+C:\Users\admin\Documents\GitHub\sp\bin\Debug\Potato.exe.config
+C:\Users\admin\Documents\GitHub\sp\bin\Debug\Potato.exe.manifest
+C:\Users\admin\Documents\GitHub\sp\bin\Debug\Potato.application
+C:\Users\admin\Documents\GitHub\sp\bin\Debug\Potato.exe
+C:\Users\admin\Documents\GitHub\sp\bin\Debug\Potato.pdb
+C:\Users\admin\Documents\GitHub\sp\obj\Debug\Potato.csprojAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\sp\obj\Debug\Potato.Form1.resources
+C:\Users\admin\Documents\GitHub\sp\obj\Debug\Potato.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\sp\obj\Debug\Potato.csproj.GenerateResource.cache
+C:\Users\admin\Documents\GitHub\sp\obj\Debug\Potato.exe.manifest
+C:\Users\admin\Documents\GitHub\sp\obj\Debug\Potato.application
+C:\Users\admin\Documents\GitHub\sp\obj\Debug\Potato.exe
+C:\Users\admin\Documents\GitHub\sp\obj\Debug\Potato.pdb

@@ -40,6 +40,7 @@ namespace Potato
             else
             {
                 buttonCOM.Enabled = false;
+                buttonTx.Enabled = false;
             }
             
 
