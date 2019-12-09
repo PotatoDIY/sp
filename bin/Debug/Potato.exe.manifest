@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Potato.exe" size="147424">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Potato.exe" size="148448">
       <assemblyIdentity name="Potato" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>87o4860BoYl7EjNzkSSq4IBm8KoQRBw1n9pWl4C5Rhg=</dsig:DigestValue>
+        <dsig:DigestValue>NHGM1CFXZpz89t3V9jUA713SQvljNbWQJk/khpgIT3M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

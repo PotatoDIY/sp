@@ -126,5 +126,10 @@ namespace Potato
             sp.WriteLine(textout.Text);
             textout.Text = "";
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/potatoDIY/sp");
+        }
     }
 }
